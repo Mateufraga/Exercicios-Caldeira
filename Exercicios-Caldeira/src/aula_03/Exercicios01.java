@@ -11,7 +11,7 @@ public class Exercicios01 {
     public static void main(String[] args) {
         LocalTime Hora = LocalTime.now();
         Scanner scanner = new Scanner(System.in);
-        Banco Smite = new Banco("nomedaconta", "051.911.650-22", 72426898,
+        Banco Smite = new Banco("nomedaconta", "01749731010", 72426898,
                 "Smite", "Rua olimpo, bairro Panteão, número 456", 7000.0, Hora);
         Banco Smite1 = new Banco("nomedaconta1", "861.890.634-56", 72526898,
                 "Smite", "Rua olimpia, bairro Pente, número 467", 1200.0, Hora);
